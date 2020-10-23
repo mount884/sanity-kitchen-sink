@@ -19,9 +19,9 @@ const Pricing = ({ title, transparentCTAs }) => {
             <div className="flex-1 bg-white text-gray-600 rounded-t rounded-b-none overflow-hidden shadow">
               <div className="p-8 text-3xl font-bold text-center border-b-4">Free</div>
               <ul className="w-full text-center text-sm">
-                <li className="border-b py-4">Thing</li>
-                <li className="border-b py-4">Thing</li>
-                <li className="border-b py-4">Thing</li>
+                <li className="border-b py-4">Thing ABC</li>
+                <li className="border-b py-4">Thing BCD</li>
+                <li className="border-b py-4">Thing CDA</li>
               </ul>
             </div>
             <div className="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6">
